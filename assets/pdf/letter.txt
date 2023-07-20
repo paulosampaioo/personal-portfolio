@@ -1,0 +1,15 @@
+1)- fullstack
+Dear Hiring Manager,
+
+I am excited to apply for the Full Stack Developer position at Sidia. With my experience in developing and maintaining web applications, I am confident that I can contribute to the success of the company.
+
+In my previous role, I worked on three big projects in Latin America, using React and Vitest to design the front-end with unit tests. Through this experience, I learned Kotlin for Android and developed a dashboard for Wear-OS. I also helped improve the speed of code built by 10% using TDD and some patterns. My skills in Wear-OS Kotlin, OKR, Vitest, and Jest will be valuable in this position.
+
+One of my main differentials is my experience with artificial intelligence. I helped with the development of an AI that detects fire using C++. I also organized and updated the image bank for this AI and created filters in Python to increase detection accuracy. These skills will be useful in developing and maintaining the web applications at Sidia.
+
+As a Full Stack Developer, I understand the importance of staying up-to-date with emerging technologies and trends in the field. I am committed to continuing my education and learning new skills to contribute to the success of the company.
+
+Thank you for considering my application for the Full Stack Developer position at Sidia. I look forward to the opportunity to contribute to the team and help achieve the company's strategic priorities.
+
+Sincerely,
+Paulo
